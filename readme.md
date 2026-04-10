@@ -8,7 +8,7 @@ $$
 $$
 
 
-The code can run in two different modes (1) SNR+Res (2) Res-only by setting
+The code can run in two different modes `(1) SNR+Res (2) Res-only` by setting
 ```matlab
 % SNR+Res
 SNR_obj_weight = 1;
